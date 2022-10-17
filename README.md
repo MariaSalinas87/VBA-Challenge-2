@@ -133,5 +133,5 @@ End Sub
 
 Advantages and Disadvantages of Refactoring
 
-Generally speaking, refactoring codes makes the code cleaner and faster. it is a very helful tool to explain the process of the code. A disavanatage is that it may take too long and not advisable for larger code files. 
+Generally speaking, refactoring codes makes the code cleaner and faster. it is a very helful tool to explain the process of the code. A disadvantage is that it may take too long and not advisable for larger code files. 
 
